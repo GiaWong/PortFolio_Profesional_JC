@@ -29,7 +29,7 @@ El desarrollo del portfolio se realizó utilizando las siguientes herramientas y
 
 ##  Video demostrativo
 
-🔗 [Ver presentación en YouTube](:https://youtu.be/vDMOW-b6-7A)
+🔗 [Ver presentación en YouTube](https://youtu.be/vDMOW-b6-7A)
 
 ## ⏱️ Tiempo de desarrollo
 
