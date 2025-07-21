@@ -34,3 +34,14 @@ El desarrollo del portfolio se realizó utilizando las siguientes herramientas y
 ## ⏱️ Tiempo de desarrollo
 
 Este portfolio fue diseñado y construido en **menos de 3 semanas**, abarcando el diseño visual, la programación modular, las animaciones, el responsive y el despliegue completo.
+
+## Contacto
+
+Para consultas o sugerencias sobre este proyecto:
+
+- Correo: laboral.wong@gmail.com
+
+---
+
+
+Desarrollado por [Wongia](https://github.com/GiaWong)
